@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Host: https://www.resunova.io
+Sitemap: https://www.resunova.io/sitemap.xml
